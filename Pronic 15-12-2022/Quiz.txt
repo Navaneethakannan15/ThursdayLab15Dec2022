@@ -1,0 +1,1 @@
+3) Display whether the given number is pronic or not

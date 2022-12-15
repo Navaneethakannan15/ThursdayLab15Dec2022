@@ -1,0 +1,1 @@
+Record the weekly temperature of two cities and display it
