@@ -8,7 +8,7 @@ public static void main(String []args)
 	{{66,45,75},{88,92,96}},
 	{{76,36,44},{55,42,48}}
 	};
-
+	int sum=0;
 	for(int i=0; i<a.length;i++)
 	{
 		System.out.println("Department No."+(i+1));
@@ -18,8 +18,12 @@ public static void main(String []args)
 	for(int k=0; k<a[i][j].length; k++)
 	{
 		System.out.print(a[i][j][k] +"\t");
+		sum+=a[i][j][k];
+			
 	}
-	System.out.println();
+		System.out.println("\t sum of subject Mark: " +sum);
+		sum=0;
+	
 	}
 	}
 	
