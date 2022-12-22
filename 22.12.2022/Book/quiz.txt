@@ -1,0 +1,3 @@
+2) create a class called Book which can hold publisher name,author name, book name and isbc number of the book
+and use getter and setter method and create another class McGrawhill and inherit the book class and another class
+Packt and inherit the class and another MainBook class to initialize the variable and display the information

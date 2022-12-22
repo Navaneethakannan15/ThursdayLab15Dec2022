@@ -1,0 +1,3 @@
+1) create an employee class with name,id,salary and intialize it using constructor and override toString() method
+to print the string representation of employee and an instance method which increments the salary of the employee
+and call the method inside another class MainEmployee and increment the salary and display employee information
