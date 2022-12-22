@@ -1,0 +1,2 @@
+3) write an inner class which is private for baking application only when the person is authorized he can create 
+instance for inner class and add interest to the person.
