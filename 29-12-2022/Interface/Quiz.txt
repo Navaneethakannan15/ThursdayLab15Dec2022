@@ -1,0 +1,1 @@
+1) Write an functional interface with lambda expression to pass a set of items and display it using for each loop.

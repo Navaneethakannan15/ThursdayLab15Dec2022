@@ -1,0 +1,2 @@
+2) Write an custom exception where there are set of student names,student id, attendance and his marks display it 
+   and throw the Custom exception when student gets less than 60% attendance.
