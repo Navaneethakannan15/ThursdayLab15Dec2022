@@ -1,0 +1,2 @@
+1) Create a class called Book with author name,book name and isbc number as variable and store it in collection and retrive 
+   it using for each loop and itertor and also do serializaion and clonning

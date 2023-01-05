@@ -1,0 +1,2 @@
+2) Create a Thread to show synchronization where there is a college with college name and college id and it has capacity 
+of upto 50 students already 48 students has got admission then for 51 student it has to display admission is full
