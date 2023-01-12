@@ -1,0 +1,2 @@
+/*2) Write a  program to show inter thread communication, take any example where one class wait for notification from another
+   class*/

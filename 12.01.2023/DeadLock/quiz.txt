@@ -1,0 +1,3 @@
+1) Write a program to show dead lock and ways to avoid it, For example create two class and create another two class where 
+   in one class first class object acts and second class object act next to it and same way in another class, create
+   main class and show dead lock
